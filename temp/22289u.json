@@ -1,0 +1,67 @@
+{
+    "_id": "626115c5e8158f4eb10e84f1",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[R]Thu, 14 Apr 2022 17:23:21 GMT \r\n[w][l.]\r\n[R]Rugby league's players' union calls \r\n[R]for Easter double-headers to be \r\n[R]dropped \r\n[W]Union head Garreth Carvell wants \r\n[W]'proper rest' between games'Throwing \r\n[W]them into three games in nine days \r\n[W]isn't safe'The traditional Easter \r\n[W]double-header this year could be the \r\n[W]last time fans get to experience one \r\n[W]of the highlights of the Super League \r\n[W]calendar amid a player-led push to \r\n[W]improve welfare. The Rugby League \r\nmore...",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "u",
+        "page-no": 22289
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        222890,
+        222891,
+        222892,
+        222893,
+        222894,
+        222895,
+        222896,
+        222897,
+        222898,
+        222899,
+        2228
+    ],
+    "title": {
+        "data": "https://edit.tf/#0:QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAvobotqBX__oECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC_9AgQIEGv-gQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgL_0Cj4kQav6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAuq64P6Dx__oECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA",
+        "merge-data": null,
+        "type": "edit.tf,5"
+    },
+    "visible": true
+}

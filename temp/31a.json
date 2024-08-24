@@ -1,0 +1,67 @@
+{
+    "_id": "627d6c5a8df48c3fc587e913",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]                    [W]    0.00[Y] [G]0.00\r\n[Y]3i Group Plc        [W] 1254.25[Y] [G]0.00\r\n[Y]Abrdn plc           [W]  171.75[Y] [G]0.00\r\n[Y]Admiral Group       [W] 1975.00[Y] [G]0.00\r\n[Y]Airtel Africa plc   [W]  152.40[Y] [G]0.00\r\n[Y]Anglo American      [W] 2971.75[Y] [G]0.00\r\n[Y]Antofagasta plc     [W] 1211.50[Y] [G]0.00\r\n[Y]Ashtead Group plc   [W] 4602.50[Y] [G]0.00\r\n[Y]Associated British F[W] 1666.25[Y] [G]0.00\r\n[Y]AstraZeneca plc     [W]10732.00[Y] [G]0.00\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "\r\n[C]This index is sorted by the daily\r\n[C]change percentage (high-low).",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 31
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        3
+    ],
+    "title": {
+        "data": "[y[          FTSE 100]][c][h-]",
+        "merge-data": null,
+        "type": "markup,9"
+    },
+    "visible": true
+}

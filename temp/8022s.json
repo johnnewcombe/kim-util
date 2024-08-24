@@ -1,0 +1,67 @@
+{
+    "_id": "627f651801399a4e2ae47aec",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]algorithms. Now we are looking to \r\n[Y]space, brain hacking, and unashamed \r\n[Y]futurism. How can we begin to live in \r\n[Y]the future while increasing \r\n[Y]accessibility and inclusivity? What \r\n[Y]are the ethical concerns surrounding \r\n[Y]things that might seem abstract at \r\n[Y]first glance - like brainwave \r\n[Y]data?\r\n[Y]\r\n[Y]Classical ballet might sound \r\n[Y]like a strange way to learn about \r\nmore...",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "s",
+        "page-no": 8022
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80220,
+        80221,
+        80222,
+        80223,
+        80224,
+        80225,
+        80226,
+        80227,
+        80228,
+        80229,
+        802
+    ],
+    "title": {
+        "data": "https://edit.tf/#0:QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQICh0ug4LFuRggQIECAnw4cOHDhw4cOHDhw4cOHDhwYIECBAgKHS7pAgQIFTBAgQICbxZoWJGmjQsSPMmhA0aINCxIgQIECAodLtdCPI6QNUCBAgJrdmpAge7tSxI11akDVqg1LEiBAgQICh0vpQIECDQhQIECAmsXKliRKqVLEi1MiWIVqxUsSIECBAgKHS6BGseJkKBAgQICaNGjRo0aNGjRo0aNGjRo0aNCgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA:PS=0:RE=0:zx=Da0",
+        "merge-data": null,
+        "type": "edit.tf,7"
+    },
+    "visible": true
+}

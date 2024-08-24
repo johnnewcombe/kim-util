@@ -1,0 +1,67 @@
+{
+    "_id": "66a0b18d7975818b8f4ea122",
+    "author-id": "",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "|A|Gk|I7F20AB|1J|0:200940007F20141A607F7D7E357F30607C6A75207A357F2B7D206A356B7F3570206B7F7390|1J|0:20096000737373317F2020207F20141A7E37206A352B7F7F27226F7F3F217F206B756A35EF|1J|0:14098000206F356F7F7F256F7F7F7F257F2020207F2000007E|1J|0:00000001FF|1J|F|Z037",
+        "type": "rawV"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "k",
+        "page-no": 800231
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        8002310,
+        8002311,
+        8002312,
+        8002313,
+        8002314,
+        8002315,
+        8002316,
+        8002317,
+        8002318,
+        8002319,
+        80023
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

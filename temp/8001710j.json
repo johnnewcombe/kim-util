@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1c6ab5210f4371466c",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\f\r\r\r\u0014\u001bBPresenting Prestel     \u001bG646612a   \u001bC  0p\n\u001bG         GLOSS TERMS\r\n\n\u001bC)\u001bVj\u001bH\u001bC(((\u001bITeletext\u001bG.........information \u001bV  h    \u001bG\u001bGcarried \"piggyback\" over the\r\n\u001bV  $$\u001bG    broadcast signal on tYll#\u0012h#8~is the name of the BBC\u001bV 2\"\"0           \u001bGteletext service.\r\n \u001bCOracle\u001bG is the name of the IBA\u001bB                \u001bGte|ervice.\r\n\n\u001bS hzu4\u001bB...Viewdata\u001bG.........information \u001bS hzu4\u001bB..\u001bGcarried by the telephone line  \u001bShzu4\u001bB. \u001bGto your TV set.\r\n  \u001bSj5\r\n  \u001bSj5    \u001bBPrestel\u001bGis the name of the  PO  \u001bSj5\u001bG            viewdata service.4\u0003S\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003%IMt public viewdata \u001bS  j5            \u001bBservice in the world. \u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "j",
+        "page-no": 8001710
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1c6ab5210f43714657",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\f\r\r\r\u0014\u001bCEASTEL                 \u001bG4080a     \u001bC  1p\u001bW;Wh,    \u001bQ/        \u001bWhl       \u001bQ/\r\n\u001bR jpj#57%k!7!75j#5 j  7kj 57k\"7jj#j+\r\n\u001bW j j,53kj 7!7kj 5 j  5jj 55j 5jj#b#5\r\n\u001bR\u001bR*,\" !##\" #!!\"\" ! *,%##\"#!!\" !\"\"#\"#!\r\n  \u001bB\u001bB0\u001bG NEWS,WEATHER    \u001bB1 \u001bGSPORT\r\n        \u001bQ/                  \u001bQ/\r\n\u001bB  \u001bB2\u001bG HOTELS IN THE EASTERN COUNTIES\r\n        \u001bQ/\r\n\u001bB   3 \u001bGCOMMUNITY SERVICES\r\n       pwj.N2EL   \u001bQ/\r\n\u001bB\u001bB ;B5 \u001bGHOROSCOPES\r\n        \u001bQ/\r\n\u001bB  \u001bB6 ;GTRAVEL AND TRANSPORT\r\n        \u001bQ/\r\n  \u001bB\u001bB7 \u001bGCLUBS,SOCIETIES,ORGANISATIONS\r\n  \u001bB     ;Q/\r\n\u001bB  \u001bB8 \u001bGQUIZZES,JOKES,GAMES,PASTIMES\r\n        \u001bQ/\r\n   \u001bB9\u001bI\u001bGADVERTISEMENT INDEX  \u001bB ;BPress\r\n        \u001bQ/         \u001bB          \u001bB number\u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "c",
+        "page-no": 8001710
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

@@ -1,0 +1,67 @@
+{
+    "_id": "627d6c5a8df48c3fc587e916",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]Auto Trader Group pl[W]  664.90[Y] [G]0.00\r\n[Y]Avast plc           [W]  681.50[Y] [G]0.00\r\n[Y]AVEVA Group plc     [W] 2376.00[Y] [G]0.00\r\n[Y]Aviva Plc           [W]  409.30[Y] [G]0.00\r\n[Y]B\u0026M European Value R[W]  418.10[Y] [G]0.00\r\n[Y]BAE Systems plc     [W]  798.80[Y] [G]0.00\r\n[Y]Barclays plc        [W]  166.68[Y] [G]0.00\r\n[Y]Barratt Developments[W]  492.80[Y] [G]0.00\r\n[Y]Berkeley Group Holdi[W] 4154.50[Y] [G]0.00\r\n[Y]BP Plc              [W]  416.40[Y] [G]0.00\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "\r\n[C]This index is sorted by the daily\r\n[C]change percentage (high-low).",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "b",
+        "page-no": 31
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        3
+    ],
+    "title": {
+        "data": "[y[          FTSE 100]][c][h-]",
+        "merge-data": null,
+        "type": "markup,9"
+    },
+    "visible": true
+}

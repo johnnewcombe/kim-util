@@ -1,0 +1,67 @@
+{
+    "_id": "627f641001399a4e2ae47a69",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]wellbeing space (and other extreme \r\n[Y]environments) using speculative \r\n[Y]design research methods and play \r\n[Y]tools. This workshop will involve \r\n[Y]hands-on activities: making and \r\n[Y]sketching scrappy \r\n[Y]prototypes/concepts. You do not have \r\n[Y]to have prior knowledge of anything, \r\n[Y]we do ask you to park judgements at \r\n[Y]the front of the tent before you \r\nmore...",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "y",
+        "page-no": 8021
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80210,
+        80211,
+        80212,
+        80213,
+        80214,
+        80215,
+        80216,
+        80217,
+        80218,
+        80219,
+        802
+    ],
+    "title": {
+        "data": "https://edit.tf/#0:QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQICh0ug4LFuRggQIECAnw4cOHDhw4cOHDhw4cOHDhwYIECBAgKHS7pAgQIFTBAgQICbxZoWJGmjQsSPMmhA0aINCxIgQIECAodLtdCPI6QNUCBAgJrdmpAge7tSxI11akDVqg1LEiBAgQICh0vpQIECDQhQIECAmsXKliRKqVLEi1MiWIVqxUsSIECBAgKHS6BGseJkKBAgQICaNGjRo0aNGjRo0aNGjRo0aNCgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA:PS=0:RE=0:zx=Da0",
+        "merge-data": null,
+        "type": "edit.tf,7"
+    },
+    "visible": true
+}

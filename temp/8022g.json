@@ -1,0 +1,67 @@
+{
+    "_id": "627f651801399a4e2ae47ac8",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]video clips I can \r\n[Y]present.\r\n[Y]\r\n[Y]Imposter credentials: I \r\n[Y]am a hospital doctor not an engineer. \r\n[Y]Electronic hobbyist. Until I started \r\n[Y]this sequence of machines I had only \r\n[Y]coded in BASIC aged 14 on my Sinclair \r\n[Y]ZX81 (built from a kit obviously). \r\n[W]2018-09-02 17:30:00 \r\n[w][l.]\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "g",
+        "page-no": 8022
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80220,
+        80221,
+        80222,
+        80223,
+        80224,
+        80225,
+        80226,
+        80227,
+        80228,
+        80229,
+        802
+    ],
+    "title": {
+        "data": "https://edit.tf/#0:QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQICh0ug4LFuRggQIECAnw4cOHDhw4cOHDhw4cOHDhwYIECBAgKHS7pAgQIFTBAgQICbxZoWJGmjQsSPMmhA0aINCxIgQIECAodLtdCPI6QNUCBAgJrdmpAge7tSxI11akDVqg1LEiBAgQICh0vpQIECDQhQIECAmsXKliRKqVLEi1MiWIVqxUsSIECBAgKHS6BGseJkKBAgQICaNGjRo0aNGjRo0aNGjRo0aNCgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA:PS=0:RE=0:zx=Da0",
+        "merge-data": null,
+        "type": "edit.tf,7"
+    },
+    "visible": true
+}

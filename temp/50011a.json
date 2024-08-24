@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1b6ab5210f43714628",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "https://edit.tf/#0:QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQNWDBixwoECAugQIOCh7gYIAx0osWLFixYsWLFixYsWLFixYsWLFixYsSIC6BA2QKVKFE0LHQiBAgQINGnPo74fPNBl3Z9mHdkQIECBAgLoEGlQoeqNCEsdCIECBBtw6t_JBy34ciDll4b-XTmgQIECAugQIFqxasSoCx0usWLFixYsWLFixYsWLFixYsWLFixYsSIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECApg8fPnz58-fPnz58-fPnz58-fPnz58-fOjAMgQIECBAgQIAh0v4WLFixYsWLFixYsWLFixYsWLFixYsYIAyBAgQIECBAgCHS7VAgQIECBAgQcOCDhwQIECBAgQIECBqgDIGIeaxQIECAIdLtUCBAgQIECDR__oP_9ogQIECBAgQIGqAMgZB5rJAgQIAh0u1QIECBAgQIP3_-g___qBAgQIECBAgaoAyBmHms0CBAgCHS7VBw4cOHDhw4cOHDhw4cOHDhw4cECBqgDIGgea0QIECAIdLtUC_f_fr169evXr169evXr9_9-vQIGqAMgah5rVAgQIAh0u1QINX9qgQaPnz4g-fPjRAg1f2qBAgaoAyBsHmtkCBAgCHS7VAg1f0CBB-___6D____UCBB_aoECBqgDIG4eCxQIECAIdLtUCBAgQIMH____oP____YIECBAgQIGqAMgcB4LFRNUoAh0u1QIECBAg1f___-g____9qgQIECBAgaoAyBygXLlyBAgCHS7VAgQIECD9____6D_____qBAgQIECBqgDIECBAgQIECAIdLtUCBAgQIECBAgQIECBAgQIECBAgQIGqAMgQIECBAgQIAh0urWLFixYsWLFixYsWLFixYsWLFixYuQoECBAgQIECBAgKIla9evXr169evXr169evXr169evXr169OhQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA",
+        "type": "edit.tf"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 50011
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        500110,
+        500111,
+        500112,
+        500113,
+        500114,
+        500115,
+        500116,
+        500117,
+        500118,
+        50012,
+        500
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

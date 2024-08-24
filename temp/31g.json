@@ -1,0 +1,67 @@
+{
+    "_id": "627e1656707e9ba1b5856328",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]Melrose Industries p[W]  150.85[Y] [G]0.00\r\n[Y]Mondi Plc           [W] 1506.00[Y] [G]0.00\r\n[Y]National Grid       [W] 1141.00[Y] [G]0.00\r\n[Y]NatWest Group plc   [W]  254.60[Y] [G]0.00\r\n[Y]Next plc            [W] 6479.00[Y] [G]0.00\r\n[Y]Ocado Group plc     [W]  887.70[Y] [G]0.00\r\n[Y]Pearson plc         [W]  877.50[Y] [G]0.00\r\n[Y]Pershing Square Hold[W] 2730.00[Y] [G]0.00\r\n[Y]Persimmon plc       [W] 1875.50[Y] [G]0.00\r\n[Y]Phoenix Group Holdin[W]  667.60[Y] [G]0.00\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "\r\n[C]This index is sorted by the daily\r\n[C]change percentage (high-low).",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "g",
+        "page-no": 31
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        3
+    ],
+    "title": {
+        "data": "[y[          FTSE 100]][c][h-]",
+        "merge-data": null,
+        "type": "markup,9"
+    },
+    "visible": true
+}

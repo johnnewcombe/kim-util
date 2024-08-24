@@ -1,0 +1,67 @@
+{
+    "_id": "627f651801399a4e2ae47add",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[W]Actually, it's about ethics in \r\n[W]software engineering \r\n[Y]Contemporary software engineering is \r\n[Y]at a crucial juncture in the \r\n[Y]evolution as a discipline. We're \r\n[Y]professionalising and expanding our \r\n[Y]abilities, but in doing so we're \r\n[Y]encountering dramatic new risks and \r\n[Y]venturing into new ethical territory. \r\n[Y]In this way, we share similarities \r\n[Y]with the expansion of traditional \r\n[Y]civil engineering during the \r\nmore...",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "n",
+        "page-no": 8022
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80220,
+        80221,
+        80222,
+        80223,
+        80224,
+        80225,
+        80226,
+        80227,
+        80228,
+        80229,
+        802
+    ],
+    "title": {
+        "data": "https://edit.tf/#0:QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQICh0ug4LFuRggQIECAnw4cOHDhw4cOHDhw4cOHDhwYIECBAgKHS7pAgQIFTBAgQICbxZoWJGmjQsSPMmhA0aINCxIgQIECAodLtdCPI6QNUCBAgJrdmpAge7tSxI11akDVqg1LEiBAgQICh0vpQIECDQhQIECAmsXKliRKqVLEi1MiWIVqxUsSIECBAgKHS6BGseJkKBAgQICaNGjRo0aNGjRo0aNGjRo0aNCgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA:PS=0:RE=0:zx=Da0",
+        "merge-data": null,
+        "type": "edit.tf,7"
+    },
+    "visible": true
+}

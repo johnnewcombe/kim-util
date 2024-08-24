@@ -1,0 +1,67 @@
+{
+    "_id": "622b7432a1868dadfbab0251",
+    "author-id": "gateway-frame-generator",
+    "connection": {
+        "address": "fish.ccl4.org",
+        "mode": "viewdata",
+        "port": 23
+    },
+    "content": {
+        "data": "\u001bT$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\r\n[C]You are about to connect to[M]CCL4.\r\n[C]Prepare yourself for Viz-type humour.\r\n\r\n\r\n[M]To disconnect, use[Y]+++_.\r\n\r\n\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "gateway",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 602
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        6,
+        6021,
+        6022,
+        6023,
+        6024,
+        6025,
+        6026,
+        6027,
+        6028,
+        6029,
+        602
+    ],
+    "title": {
+        "data": "[D]Gateway Connection\r\n\r\n",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

@@ -1,0 +1,67 @@
+{
+    "_id": "61e681f6d11ea90df127b28c",
+    "author-id": "system-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\u001bT$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "system",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 93
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+    ],
+    "title": {
+        "data": "[D]System Info\r\n\r\n",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

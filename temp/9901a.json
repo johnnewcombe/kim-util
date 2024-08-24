@@ -1,0 +1,67 @@
+{
+    "_id": "628fedcdc1cc7dee11dc6e18",
+    "author-id": "",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[D]Unexpected Error\r\n\n[r][l-]\r\n\n[Y]The error message was:\r\n\n[W][ERROR]\r\n\n\n\n[Y]It would help if this issue could be\r\n[Y]reported on the[W]TELSTAR[Y]group at:\r\n\n[W]    https://groups.io/g/telstar\r\n\n[r][l-]\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "[B][n][Y]Page not Found :[W]",
+    "navmessage-select": "[R][n][Y]PRESS[W]_[Y]TO CONTINUE,[W]",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 9901
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

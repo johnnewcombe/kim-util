@@ -1,0 +1,67 @@
+{
+    "_id": "628298f2b708cd91ac24da86",
+    "author-id": "",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\r\n\r\n\r\n \u001bC\u000f\u001bS \u000f \u001bA\u000fHello World",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "gateway",
+    "header-text": "",
+    "navmessage-notfound": "[B][n][Y]Page not Found :[W]",
+    "navmessage-select": "[B][n][Y]Select item or[W]*page# : [_+]",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 8031
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

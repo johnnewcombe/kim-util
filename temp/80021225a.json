@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1e6ab5210f43714714",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "http://edit.tf/#0:QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgcMGDFiyZNcKAbXy7Me_blQUMOPWgWoJendnyb9qBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgKJEiRIkSJEiRIkSJEiRIkSJEiRIkSJEiRIkSJEiRIkSJEiAFU0aeaDhy35-WHag74eaDhy39tOTLkQYeaDhh5dEG_MgQIAXTRlQV8uzHv25UFDDj1oOfXhw2acuRB309NCDpoyoIUKGgBTdOPlvx79vDr0y8lyBAgQIECBAgQIECBAgQIECBAgQIECAokSJEiRIkSJEiRIkSJEiRIkSJEiRIkSJEiRIkSJEiRIkSIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQTIM6PVgx4rpAgQAoUKGghQacmGgQIECBAgQIECBAgQIECBBNgw5EmdFdIECBAChQoaCbpx8t-Pft4demXkgQIECBAgQIEEGrUkT6TpAgQIEAKFy09NPPQghct-HJjw8-mndnQIECBAgQIECBAgQIECBAgQAoe_lw38sPTTv3LkCBAgQIECBAgQIECBBEg1IrpAgQIECBACYuXDFAgQIECBAgQIECBAgQIECBAgQIEESLTh0pNCpJnznQKpoyoLOXZs390FLT2y8kEvTuz5N-1AgQIECBAgQIECBAgQAs-HblQdNGHog688vNBhQY9-3h16ZeSBAgQIECBAgQIECBAC6b0HPTt67MPTKg5ZcOxBs05sqBAgQIECBAgQIECBAgQIEALnp6dcPTTv3c1yBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAokSJEiRIkSJEiRIkSJEiRIkSJEiRIkSJEiRIkSJEiRIkSIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA",
+        "type": "edit.tf"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "[Y]MICRONETn 800 (C)",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 80021225
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        800212250,
+        800212251,
+        800212252,
+        800212253,
+        800212254,
+        800212255,
+        800212256,
+        800212257,
+        800212258,
+        800212259,
+        8002122
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

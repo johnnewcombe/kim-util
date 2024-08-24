@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1d6ab5210f4371469f",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\f\u0014\u001bBPresenting Prestel     \u001bG646606a   ;C  0p\r\n\u001bC               \u001bGWHAT IT COSTS\r\n\r\n               \u001bG\u001bBTV\u001bR$$$$$$$$$$$$$$$$$$$$\r\n\u001bS  ||          \u001bG You will need to buy or\u001bSxtxt         \u001bGrent a Prestel TV set. ;Sb1b1;B.       \u001bGYou can  buy an adaptor\u001bS+'+'\u001bB..      \u001bGfor your existing set. \u001bSn=n=\u001bB...\r\n\u001bS  \u001bB.  ...    \u001bBPhone call\u001bR$$$$$$$$$$$$ \u001bS  \u001bB.\u001bStx\r\n\u001bS    \u001bB\u001bStx    \u001bGYou pay to phone your\r\n\u001bS            \u001bGnearest Prestel centre ;S            \u001bGand a charge for time\r\n\u001bS            \u001bGconnected to Prestel.\r\n\u001bS       \r\n\u001bS            \u001bBPage charges\u001bR((((((((((\u001bS  \r\n\u001bS             \u001bGSome pages are free.\r\n\u001bS         \u001bG\u001bG\u001bG\u001bG\u001bGSome may save you money\r\n\r\n",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "o",
+        "page-no": 800171
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

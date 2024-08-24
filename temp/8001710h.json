@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1c6ab5210f43714666",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\f\r\r\r\u0014\u001bCIPC Business Press Ltd \u001bG456785a   \u001bC  1p Notes on Appliances:\r\n\r\n\u001bECookers\u001bGDon't put a cooker on opposite  side of kitchen from sink,behind a door or near a window if it is gas.\r\n Do have a putting down surface on at\r\n least one side of the hob and oven\r\n\r\n\u001bCRefrigerator/freezer\u001bGDoors usually\r\n hinged on right. Leave 80mm gap for\r\n motor ventilation\r\n\r\n\u001bFWashing machine/dishwasher\u001bGPlace near\r\n sink. Leave 100mm gap at back for hoses and 50mm gap each side for pulling out \r\n Maximum walking distance between fridge sink and cooker should form triangle of 6 metres\r\n\r\n 1 More notes\r\n 2 Making a plan\r\n\r\n\u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "h",
+        "page-no": 8001710
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

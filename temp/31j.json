@@ -1,0 +1,67 @@
+{
+    "_id": "627e1656707e9ba1b5856331",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]SSE plc             [W] 1791.25[Y] [G]0.00\r\n[Y]St James's Place Plc[W] 1237.75[Y] [G]0.00\r\n[Y]Standard Chartered p[W]  612.00[Y] [G]0.00\r\n[Y]Taylor Wimpey plc   [W]  126.15[Y] [G]0.00\r\n[Y]Tesco plc           [W]  262.75[Y] [G]0.00\r\n[Y]Unilever plc        [W] 4010.25[Y] [G]0.00\r\n[Y]Unite Group         [W] 1137.50[Y] [G]0.00\r\n[Y]United Utilities Gro[W] 1104.50[Y] [G]0.00\r\n[Y]Vodafone Group plc  [W]  121.46[Y] [G]0.00\r\n[Y]Whitbread plc       [W] 2667.00[Y] [G]0.00\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "\r\n[C]This index is sorted by the daily\r\n[C]change percentage (high-low).",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "j",
+        "page-no": 31
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        3
+    ],
+    "title": {
+        "data": "[y[          FTSE 100]][c][h-]",
+        "merge-data": null,
+        "type": "markup,9"
+    },
+    "visible": true
+}

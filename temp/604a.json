@@ -1,0 +1,67 @@
+{
+    "_id": "622b7432a1868dadfbab0253",
+    "author-id": "gateway-frame-generator",
+    "connection": {
+        "address": "pegasus.matrixnetwork.co.uk",
+        "mode": "viewdata",
+        "port": 6502
+    },
+    "content": {
+        "data": "\u001bT$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\r\n[C]You are about to connect to the\r\n[C]TeeFax[Y]Teletext system.\r\n\r\n\r\n[C]To disconnect, use[Y]+++_.\r\n\r\n\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "gateway",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 604
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        6,
+        6041,
+        6042,
+        6043,
+        6044,
+        6045,
+        6046,
+        6047,
+        6048,
+        6049,
+        604
+    ],
+    "title": {
+        "data": "[D]Gateway Connection\r\n\r\n",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

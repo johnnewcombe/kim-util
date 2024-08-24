@@ -1,0 +1,67 @@
+{
+    "_id": "622b7432a1868dadfbab0252",
+    "author-id": "gateway-frame-generator",
+    "connection": {
+        "address": "nx.nxtel.org",
+        "mode": "viewdata",
+        "port": 23280
+    },
+    "content": {
+        "data": "\u001bT$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\r\n[C]You are about to connect to the[Y]NXTEL\r\n[C]videotex system for the[Y]ZX Spectrum.\r\n\r\n\r\n[M]To disconnect, use[Y]+++_.\r\n\r\n\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "gateway",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 603
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        6,
+        6031,
+        6032,
+        6033,
+        6034,
+        6035,
+        6036,
+        6037,
+        6038,
+        6039,
+        603
+    ],
+    "title": {
+        "data": "[D]Gateway Connection\r\n\r\n",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1c6ab5210f43714669",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\f\r\r\r\u0014\u001bBPresenting Prestel     \u001bG646611a   \u001bC  0p                                       \u001bR\u001bR7!7!k#55k#u7k\r\n\u001bR7!7!j 55j 5=n\u001bBENTERPRISES LIMITED\r\n\u001bR! #!##!!##!!\"\u001b ###################\r\n\n Mk 2 Fedidomat dishwasher\r\n      with 2 months free test service\r\n\n Price #2p2:35\r\n\u001bR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\n Delivery to: Bernard Cribbins\r\n\n\u001bR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\n Payment:\u001bB    CREDIT CARD        #202:35\n Key card no:\u001bS0000 000 000 000\r\n\n Key 1 to confirm order   \u001bH] ] ] ] ] ]\u001bI\u001bR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,                for  demonstra|K\u000f+",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "i",
+        "page-no": 8001710
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

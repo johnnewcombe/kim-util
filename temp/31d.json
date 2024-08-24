@@ -1,0 +1,67 @@
+{
+    "_id": "627e1655707e9ba1b585631f",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]DCC plc             [W] 5289.00[Y] [G]0.00\r\n[Y]Dechra Pharmaceutica[W] 3574.00[Y] [G]0.00\r\n[Y]Diageo plc          [W] 3885.50[Y] [G]0.00\r\n[Y]Endeavour Mining plc[W] 1742.00[Y] [G]0.00\r\n[Y]Entain plc          [W] 1316.25[Y] [G]0.00\r\n[Y]Experian Plc        [W] 2910.00[Y] [G]0.00\r\n[Y]Flutter Entertainmen[W] 8820.00[Y] [G]0.00\r\n[Y]Fresnillo           [W]  715.60[Y] [G]0.00\r\n[Y]Glencore plc        [W]  469.85[Y] [G]0.00\r\n[Y]GSK plc             [W] 1659.00[Y] [G]0.00\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "\r\n[C]This index is sorted by the daily\r\n[C]change percentage (high-low).",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "d",
+        "page-no": 31
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        3
+    ],
+    "title": {
+        "data": "[y[          FTSE 100]][c][h-]",
+        "merge-data": null,
+        "type": "markup,9"
+    },
+    "visible": true
+}

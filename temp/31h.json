@@ -1,0 +1,67 @@
+{
+    "_id": "627e1656707e9ba1b585632b",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]Prudential plc      [W] 1005.25[Y] [G]0.00\r\n[Y]Reckitt Benckiser Gr[W] 6659.00[Y] [G]0.00\r\n[Y]RELX plc            [W] 2410.00[Y] [G]0.00\r\n[Y]Rentokil Initial Plc[W]  546.60[Y] [G]0.00\r\n[Y]Rightmove plc       [W]  654.20[Y] [G]0.00\r\n[Y]Rio Tinto plc       [W] 5001.50[Y] [G]0.00\r\n[Y]Rolls Royce Holdings[W]   86.61[Y] [G]0.00\r\n[Y]RS Group plc        [W] 1044.50[Y] [G]0.00\r\n[Y]Sage Group plc      [W]  741.60[Y] [G]0.00\r\n[Y]Sainsbury (J) plc   [W]  217.90[Y] [G]0.00\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "\r\n[C]This index is sorted by the daily\r\n[C]change percentage (high-low).",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "h",
+        "page-no": 31
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        3
+    ],
+    "title": {
+        "data": "[y[          FTSE 100]][c][h-]",
+        "merge-data": null,
+        "type": "markup,9"
+    },
+    "visible": true
+}

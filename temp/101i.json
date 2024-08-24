@@ -1,0 +1,67 @@
+{
+    "_id": "6299e9211ef3acf333ae4267",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "https://edit.tf/#0:QIEEeDUi05EWDEQU10ldTXIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBABGw4MuLTQQZ0RBQg06lKygQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQA0C1atWrVq1atWrVq1atWoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQMGIOHVpUos6oghVZyBAgQIECBAgQIECBAgQNWCCOgQIECBAwZA5MOLEQQqs5AgQIECBAgQIECBAgQIECBA1YII6BAgQIEDBmDlQZqCpBpVECBAgQIECBAgQIECBAgQIEDRkgjoECBAgQMGgOHVp1INKIgg0qiBAgQIECBAgQIECBAgQNGSCOgQIECBAwag4VWpUi0o0yyghwZcVAgQIECBAgQIECBAzcII6BAgQIEDBsDjUqsmogpw586KgQIECBAgQIECBAgQIEDVqgjoECBAgQMG4OHInw58yDUioIsOZBk0kCBAgQIECBAgQNWCCOgQIECBAwcA4VKLBiIKFWJEkzo6BAgQIECBAgQIECBA1YII6BAgQIEDByDg0KEyKgqVaU6fWi0kCBAgQIECBAgQIEDVqgjoECBAgQMWAOHPhz51WogpzJMOKgQIECBAgQIECBAgQNHCCOgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBBLi2QbEPWkxa6CTUizUCBAgQIECBAgQIECBAgQIECBAgQIECBAgBsg9aTFroJ0WxUQUIMeKgQIECBAgQIECBAgQIECBAgQIECBAwQVJ6CLYk1ECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIA5xAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA",
+        "type": "edit.tf"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "[Y][n][B]GATESHEAD S.I.S.[-][Y]",
+    "navmessage-notfound": "[Y][n][B]Page not Found : ",
+    "navmessage-select": "[Y][n][B]",
+    "pid": {
+        "frame-id": "i",
+        "page-no": 101
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        10103221,
+        10103221,
+        10103221,
+        10103221,
+        10103221,
+        10103221,
+        10103221,
+        10103221,
+        10103221,
+        10103221,
+        10103221
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

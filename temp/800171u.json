@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1d6ab5210f437146b1",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\f\u0014\u001bFWH Smith         `     \u001bG40066a    \u001bC0.5p\u001bS\u001bSb15p`p0p`p0x0ppj\r\n\u001bS  55jj(%5j 5j 5.j\u001bWOFFERS MORE\r\n\u001bS  !##\"##!\"#!\"!###\r\n\r\n\u001bCSpain's\u001bGIBEROTEL\u001bCchain has 25 hotels in\u001bCprime locations throughout the Spanish ;Cmainland, Canary and Balearic Isles.\r\n\r\n Excellent food, service and amenities. \r\n;CHotels onfer both daytime and ewening\r\n\u001bCen|/\u0017\u001axopular resorts\r\n\u001bCand in the away`from`it`all places.\r\n\r\n\r\n\u001bGHOTEL LOCATIONS\u001bBkey for further details Majorca         \u001bB    \u001bB1\u001bW7#############k Minorca \u0026 Formentera \u001bB2\u001bW5\u001bB0 for tour \u001bWj Canary Islands, Ibiza\u001bB3\u001bW5\u001bBoperators \u001bW j Spanish Mainland     \u001bB4\u001bWupppppppppppppz\r\n\u001bBBOOK YOUR IBEROTEL THROUGH W.H.SMITH\u001e\u000b                                        \r\n\r\n",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "u",
+        "page-no": 800171
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

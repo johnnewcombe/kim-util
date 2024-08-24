@@ -1,0 +1,67 @@
+{
+    "_id": "627e1655707e9ba1b585631c",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]British American Tob[W] 3271.00[Y] [G]0.00\r\n[Y]British Land Co plc [W]  474.80[Y] [G]0.00\r\n[Y]BT Group plc        [W]  161.15[Y] [G]0.00\r\n[Y]Bunzl plc           [W] 3091.00[Y] [G]0.00\r\n[Y]Burberry Group plc  [W] 1796.50[Y] [G]0.00\r\n[Y]Centrica plc        [W]   82.49[Y] [G]0.00\r\n[Y]Coca-Cola HBC AG    [W] 1942.50[Y] [G]0.00\r\n[Y]Compass Group plc   [W] 1924.00[Y] [G]0.00\r\n[Y]CRH plc             [W] 3226.50[Y] [G]0.00\r\n[Y]Croda International [W] 7217.00[Y] [G]0.00\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "\r\n[C]This index is sorted by the daily\r\n[C]change percentage (high-low).",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "c",
+        "page-no": 31
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        3
+    ],
+    "title": {
+        "data": "[y[          FTSE 100]][c][h-]",
+        "merge-data": null,
+        "type": "markup,9"
+    },
+    "visible": true
+}

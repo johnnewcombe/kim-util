@@ -1,0 +1,67 @@
+{
+    "_id": "627e1656707e9ba1b5856325",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]International Consol[W]  121.33[Y] [G]0.00\r\n[Y]Intertek Group plc  [W] 4218.00[Y] [G]0.00\r\n[Y]JD Sports Fashion pl[W]  132.38[Y] [G]0.00\r\n[Y]Kingfisher          [W]  252.05[Y] [G]0.00\r\n[Y]Land Securities Grou[W]  713.70[Y] [G]0.00\r\n[Y]Legal \u0026 General Grou[W]  271.75[Y] [G]0.00\r\n[Y]Lloyds Banking Group[W]   45.34[Y] [G]0.00\r\n[Y]London Stock Exchang[W] 8314.00[Y] [G]0.00\r\n[Y]M\u0026G plc             [W]  217.65[Y] [G]0.00\r\n[Y]Meggitt             [W]  789.80[Y] [G]0.00\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "\r\n[C]This index is sorted by the daily\r\n[C]change percentage (high-low).",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "f",
+        "page-no": 31
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        3
+    ],
+    "title": {
+        "data": "[y[          FTSE 100]][c][h-]",
+        "merge-data": null,
+        "type": "markup,9"
+    },
+    "visible": true
+}

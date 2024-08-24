@@ -1,0 +1,77 @@
+{
+    "_id": "6299e5511ef3acf333ae4123",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "https://edit.tf/#0:QIEEeDUi05EWDEQU10ldTXIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBABGx6UWPHpoKFKfEqw6lNAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQA0C1atWrVq1atWrVq1atQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQMGKCFSiwYiBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAwZIJE-ogjT58RAgQIECBAgQIECBAgQIECBAgQIECBAgQIEDBmgpwZ0SvJhyItNAgQIECBAgQIECBAgQIECBAgQIECBAgQMGiCHBlxaaCDOiIKEGnUpWUCBAgQIECBAgQIECBAgQIECBAwaoIUmnDqyalNAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQS4tkGxD1pMWugk1Is1AgQIECBAgQIECBAgQIECBAgQIECBAgQIAbIPWkxa6CdFsVEFCDHioECBAgQIECBAgQIECBAgQIECBAgQMA9Segi2JNRAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAOcQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECA",
+        "type": "edit.tf"
+    },
+    "cost": 0,
+    "cursor": true,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "[Y][n][B]GATESHEAD S.I.S.[-][Y]",
+    "navmessage-notfound": "[Y]Page not Found : ",
+    "navmessage-select": " ",
+    "pid": {
+        "frame-id": "d",
+        "page-no": 101
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": [
+            {
+                "auto-submit": true,
+                "hpos": 28,
+                "length": 2,
+                "password": false,
+                "required": true,
+                "type": "numeric",
+                "vpos": 21
+            }
+        ]
+    },
+    "routing-table": [
+        1010310,
+        1010311,
+        101032,
+        1010313,
+        1010314,
+        1010315,
+        1010316,
+        1010317,
+        1010318,
+        1010319,
+        1010311
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

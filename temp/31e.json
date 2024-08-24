@@ -1,0 +1,67 @@
+{
+    "_id": "627e1656707e9ba1b5856322",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]Haleon plc          [W]  308.20[Y] [G]0.00\r\n[Y]Halma plc           [W] 2279.00[Y] [G]0.00\r\n[Y]Hargreaves Lansdown [W]  962.90[Y] [G]0.00\r\n[Y]Hikma Pharmaceutical[W] 1613.00[Y] [G]0.00\r\n[Y]Howden Joinery Group[W]  673.00[Y] [G]0.00\r\n[Y]HSBC Holdings plc   [W]  548.30[Y] [G]0.00\r\n[Y]Imperial Brands Grou[W] 1843.00[Y] [G]0.00\r\n[Y]Informa plc         [W]  595.30[Y] [G]0.00\r\n[Y]InterContinental Hot[W] 5032.00[Y] [G]0.00\r\n[Y]Intermediate Capital[W] 1520.50[Y] [G]0.00\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "\r\n[C]This index is sorted by the daily\r\n[C]change percentage (high-low).",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "e",
+        "page-no": 31
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        3
+    ],
+    "title": {
+        "data": "[y[          FTSE 100]][c][h-]",
+        "merge-data": null,
+        "type": "markup,9"
+    },
+    "visible": true
+}

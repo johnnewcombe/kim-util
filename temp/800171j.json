@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1d6ab5210f43714690",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\f\u0014\u001bGFamilyp  \u001bG550301a   \u001bC0.6p\r\n\r\n\u001bS75jj+ 5j\"7j\r\n\u001bS7kjj\"57k 5*\u001bCNow try the next question\r\n\u001bS!\"\"\"#!!\" !\"\r\n\r\n          2. The star spangled banner\r\n             is the flag of:\r\n\r\n            \u001bCKey 1\u001bGBritain\r\n            \u001bC \"  2\u001bGChina\r\n             \u001bC\"  3\u001bGFrance\r\n           \u001bC  \"  4\u001bGUSA\r\n\r\n\r\n         \u001bCKey 5\u001bF Children's Corner Index   \u001bC          0\u001bG Fami|9g Index                                     \r\n\r\n\u001e\u000b\u001bB*",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "j",
+        "page-no": 800171
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

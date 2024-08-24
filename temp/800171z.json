@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1d6ab5210f437146c0",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\f\u0014\u001bCCareerdata             \u001bG2772560a  \u001bC0.5p\u001bB   DE LA RUE Co Ltd\r\n  Prints Banknotes Cheques\r\n    Airline tickets Passports Bonds\r\n\r\n  Designs \u0026 Supplies machinery for\r\n    printing security documents and\r\n    sorting,counting and dispensing\r\n\r\n  Produces electronic scanners and\r\n    printing-press control systems\r\n\r\n  Delivers and collects cash for\r\n    Banks Shops Government Industry\r\n\r\n  Provides next-day parcel and\r\n   document delivery service\r\n\r\n;B\u001bGThe Company offers opportunities to\r\n    Graduates in:\r\n \u001bB[ey 0 - Any Arts or Science\r\n     \u001bB1 - Engineering and Science\r\n     ;B2 - ComputerStudies/Science\r\n\r\n\u001e\u000b                                        \r\n\r\n",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "z",
+        "page-no": 800171
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

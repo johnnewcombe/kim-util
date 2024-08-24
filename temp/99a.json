@@ -1,0 +1,67 @@
+{
+    "_id": "628fedcdc1cc7dee11dc6e16",
+    "author-id": "",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[W][GREETING]    [G][DATE]   [TIME]\r\n   [W][NAME]\n\n\r\n[b][h-][g[ Welcome to Telstar]][b][h-]\n\n\r\n      [G]YOU ARE CONNECTED TO [SERVER]\r\n      [G]     [DATE] [TIME]\r\n\n\n\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "initial",
+    "header-text": "",
+    "navmessage-notfound": "[B][n][Y]Page not Found :[W]",
+    "navmessage-select": "[G]   PRESS[W]_[G]TO CONTINUE",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 99
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        0,
+        990,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

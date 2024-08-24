@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1c6ab5210f43714663",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\f\r\r\r\u0014\u001bCIPC Viewdata           \u001bG456783a   \u001bC  1p\u001bAWoman \u0026 Home\r\n\u001bR0 0\u001bSp0u0p0p0p0p5 u$1t p0u0p0p0\r\n\u001bR5 5\u001bS-455\u003c555=%55 5555 5155=%55\r\n\u001bR! !\u001bW#!!!#a7!#!#! !!!#!#!!!#!!!!!!!!\r\n OUR SUGGESTED LAYOUT\r\n\u001bR           \u001bF\r\n\u001bR\u001bG          \u001bF    ;GCOLOUR CODE:\u001bR\u001bG          \u001bF\r\n\u001bE\u001bG          \u001bW    \u001bB\u001bB= UNIT\r\n\u001bE           \u001bW\r\n\u001bE           \u001bR|||||    \u001bA = COOKER \u001bR           \u001bR/////    ;A\r\n\u001bR           \u001bA\r\n\u001bR           ;A   \u001bC\u001bE = FRIDGE \u001bR\u001bF     `   \u001bC\u001bE\r\n\u001bR            \r\n\u001bR           \u001bR    ;F = WASHING   \u001bB                       \u001bF   MACHINE\u001bB1\u001bGMAKING A PLAN           \u001bWpp\r\n                           \u001bW/j*Lh]LIANCES\u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "g",
+        "page-no": 8001710
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

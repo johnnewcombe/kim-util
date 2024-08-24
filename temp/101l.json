@@ -1,0 +1,67 @@
+{
+    "_id": "629f04dd6791335c1aece990",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\r\n[y[     Thank you  for]]\r\n[y[     Shopping  with]]\r\n[y[           GREGGS]]\r\n\r\n\r\n[R] Your order will be delivered shortly.",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "[Y][n][B]GATESHEAD S.I.S.[-][Y]",
+    "navmessage-notfound": "[Y][n][B]Page not Found : ",
+    "navmessage-select": " ",
+    "pid": {
+        "frame-id": "l",
+        "page-no": 101
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        101030,
+        101031,
+        101032,
+        101033,
+        101034,
+        101035,
+        101036,
+        101037,
+        101038,
+        101039,
+        101031
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

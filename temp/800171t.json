@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1d6ab5210f437146ae",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\f\u0014\u001bBHEC Bet\u001bG544121a   \u001bC0.5p\r\n\u001bBVaccination to\u001bFPROTECT YOUR BABY\r\n\r\n\u001bBWhy bother?\r\n\u001bFTo protect against four diseases that\r\n\u001bFare potential killers:\r\n\r\n\u001bCDIPHTHERIA\u001bGan infectious disease of the throat. Very catching.\r\n\r\n\u001bCTETANUS\u001bGalso called lockjaw because it  causes very painful muscle spasms.\r\n Caught from dirty cuts and wounds.\r\n\r\n\u001bCWHOOPING COUGH-\u001bGhighly infectious and\r\n\u001bGdangerous to young children.\r\n\u001bGMay permanently damage their lungs.\r\n\r\n\u001bCPOLIO\u001bGhighly infectious virus which may;Gcause permanent paralysis or death.\r\n\r\n\u001bFHow to protect your baby: Key _\r\n\r\n\u001e\u000b                                        \r\n\r\n",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "t",
+        "page-no": 800171
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        8001710,
+        8001711,
+        8001712,
+        8001713,
+        8001714,
+        8001715,
+        8001716,
+        8001717,
+        8001718,
+        8001719,
+        80017
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

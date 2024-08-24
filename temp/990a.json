@@ -1,0 +1,67 @@
+{
+    "_id": "61d6afd40605f74ae35fb6fa",
+    "author-id": "response-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\u001bT$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\r\n         Welcome to the[Y]TELSTAR\r\n           videotex service.\r\n\r\n\u001bT$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\r\n                   \u001bBT                                    \u001bBT\u001bAE\u001bFL                                \u001bBT\u001bAE\u001bFL\u001bDS\u001bGT                            \u001bBT\u001bAE\u001bFL\u001bDS\u001bGT\u001bEA\u001bCR                            \u001bFL\u001bDS\u001bGT\u001bEA\u001bCR                                \u001bGT\u001bEA\u001bCR                                    \u001bCR                                                           \r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": true,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "response",
+    "header-text": "[G]T[R]E[C]L[B]S[W]T[M]A[Y]R",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "a",
+        "page-no": 990
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "title": {
+        "data": "[D]Login\r\n\r\n",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "visible": true
+}

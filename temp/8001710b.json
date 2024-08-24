@@ -1,0 +1,67 @@
+{
+    "_id": "625e3f1c6ab5210f43714654",
+    "author-id": "editf-frame-generator",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "\f\r\r\r\u0014\u001bCEASTEL                 \u001bG408a      \u001bC0.5p\r\n\r\n\u001bR     j\r\n\u001bR     6      8,,,\u0026),,,,,pp\r\n\u001bR    6      h!            #d\r\n\u001bR   6      6 \u001bQ \u001bGNORFOLK\u001bR    ),0\r\n\u001bR   #),,)pz  \u001bQ  |           \u001bW\u001bR\"4\r\n           \u001bQ////   \u001bT \u001bGSUFFOLK\u001bRi\r\n           \u001bQ       \u001bT \u001bT  \u001bT\u001bT/ \u001bR j\r\n\u001bW     \u001bQ/\u001bW o  \u001bT \u001bWo\u001bR %\r\n\u001bW     ppjj p jj ppj\r\n\u001bW     /j p j //jp pj /j \r\n\u001bW     |j  j|| j j |j \r\n\u001bW     ##j # j # j j ##j \r\n\u001bW    j  jj jj ##\r\n      \u001bW   ~     ~ \u001bT|\u001bW ~\r\n\u001bG\u001bG \u001bQpppppppp|       \u001bT\u001bT    \u001bT||||||\r\n   \u001bQ/########     ;W   \u001bR`xpp`8\u0026 \u001bT /\r\n\u001bBNORFOLK              \u001bR*0  !\u001bF SUFFOLK\r\n  \u001bBAR          \u001bR\u001bRm      \u001bFAREA\r\n\u001bGInformation\u001bA0         \u001bR*p\u001bGInformation\u001bA5\u001bGMarketplace\u001bA1\u001bG           \u001bGMarketplace\u001bA6\r\n\u001e\u000b                                        \r\r",
+        "type": "raw"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "b",
+        "page-no": 8001710
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        80017100,
+        80017101,
+        80017102,
+        80017103,
+        80017104,
+        80017105,
+        80017106,
+        80017107,
+        80017108,
+        80017109,
+        800171
+    ],
+    "title": {
+        "data": "",
+        "merge-data": null,
+        "type": ""
+    },
+    "visible": true
+}

@@ -1,0 +1,67 @@
+{
+    "_id": "627e1656707e9ba1b585632e",
+    "author-id": "telstar-rss",
+    "connection": {
+        "address": "",
+        "mode": "",
+        "port": 0
+    },
+    "content": {
+        "data": "[Y]Schroders plc       [W] 2978.00[Y] [G]0.00\r\n[Y]Scottish Mortgage In[W]  916.70[Y] [G]0.00\r\n[Y]Segro Plc           [W] 1065.00[Y] [G]0.00\r\n[Y]Severn Trent Plc    [W] 2971.00[Y] [G]0.00\r\n[Y]Shell plc           [W] 2172.25[Y] [G]0.00\r\n[Y]Smith \u0026 Nephew plc  [W] 1087.00[Y] [G]0.00\r\n[Y]Smith (DS)          [W]  290.40[Y] [G]0.00\r\n[Y]Smiths Group Plc    [W] 1555.75[Y] [G]0.00\r\n[Y]Smurfit Kappa Group [W] 3100.50[Y] [G]0.00\r\n[Y]Spirax-Sarco Enginee[W]11682.50[Y] [G]0.00\r\n",
+        "type": "markup"
+    },
+    "cost": 0,
+    "cursor": false,
+    "disable-clear": false,
+    "footer": {
+        "data": "\r\n[C]This index is sorted by the daily\r\n[C]change percentage (high-low).",
+        "merge-data": null,
+        "type": "markup"
+    },
+    "frame-type": "information",
+    "header-text": "",
+    "navmessage-notfound": "",
+    "navmessage-select": "",
+    "pid": {
+        "frame-id": "i",
+        "page-no": 31
+    },
+    "redirect": {
+        "frame-id": "",
+        "page-no": 0
+    },
+    "response-data": {
+        "response-action": {
+            "args": null,
+            "exec": "",
+            "post-action-frame": {
+                "frame-id": "",
+                "page-no": 0
+            },
+            "post-cancel-frame": {
+                "frame-id": "",
+                "page-no": 0
+            }
+        },
+        "response-fields": null
+    },
+    "routing-table": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        3
+    ],
+    "title": {
+        "data": "[y[          FTSE 100]][c][h-]",
+        "merge-data": null,
+        "type": "markup,9"
+    },
+    "visible": true
+}
